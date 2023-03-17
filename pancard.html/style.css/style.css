@@ -1,0 +1,25 @@
+h1
+{
+text-align: center;
+    font-size: 24px;
+}
+p{
+    font-style: italic;
+    color: blue;
+}
+
+.sec1{background-color:aquamarine;
+    width:80%;
+    height:400px;
+    margin-left: 150px;
+}
+.sec2{
+    background-color: aquamarine;
+width:80%;
+height:200px;
+margin-left: 150px;}
+.sec3{
+    background-color: aquamarine;
+width:80%;
+height:200px;
+margin-left: 150px;}
